@@ -13,7 +13,7 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/EmanRadwan114/RatingComponent.git)
+- Solution URL: (https://www.frontendmentor.io/solutions/rating-component-with-css-and-js-M92JI7k3wU)
 - Live Site URL: (https://emanradwan114.github.io/RatingComponent/)
 
 ### Built with
